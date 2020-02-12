@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"outDir": "./bin",
+		"rootDir": "./src",
+		"module": "commonjs",
+		"alwaysStrict": true,
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"target": "ESNext",
+		"sourceMap": true
+	},
+	"include": [
+		"./src/**/*"
+	]
+}
